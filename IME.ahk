@@ -1,5 +1,5 @@
 ﻿;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-; AHK版本：		1.1.23.01
+; AHK版本：		1.1.24.01
 ; 语言：		中文
 ; 作者：		lspcieee <lspcieee@gmail.com>
 ; 网站：		http://www.lspcieee.com/
@@ -18,6 +18,7 @@ GroupAdd,en,ahk_exe Xshell.exe
 GroupAdd,en,ahk_exe sublime_text.exe
 GroupAdd,en,ahk_exe PhpStorm64.exe  ;PhpStorm
 GroupAdd,en,ahk_exe ConEmu.exe ;ConEmu.exe
+GroupAdd,en,ahk_exe ConEmu64.exe ;ConEmu.exe
 GroupAdd,en,ahk_class ConsoleWindowClass ;Windows 终端
 
 ;编辑器分组
